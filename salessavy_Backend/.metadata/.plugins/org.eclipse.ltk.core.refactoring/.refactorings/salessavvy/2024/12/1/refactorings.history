@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.demo.DTO&apos; to &apos;com.example.demo.datatransferobjects_DTO&apos;&#x0D;&#x0A;- Original project: &apos;salessavvy&apos;&#x0D;&#x0A;- Original element: &apos;salessavvy/src/main/java/com.example.demo.DTO&apos;&#x0D;&#x0A;- Renamed element: &apos;salessavvy/src/main/java/com.example.demo.datatransferobjects_DTO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.demo.DTO&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.DTO" name="com.example.demo.datatransferobjects_DTO" qualified="false" references="true" stamp="1735623570299" textual="false" version="1.0"/>
+</session>
